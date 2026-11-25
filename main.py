@@ -9,11 +9,10 @@ Craft notes:
   software bug: the dry, clinical "fixed a bug where ..." framing
   collides with a deeply relatable experience, so the joke lands
   on the incongruity between the format and the subject.
-- The 2009-vs-now contrast lands because the brain's memory is
-  shown as both overpowered (it kept every embarrassment since
-  2009) and broken (it lost the reason you entered this room
-  seconds ago) — the asymmetry makes the bug feel specific and
-  true, not generic.
+- The knees-vs-stairs contrast lands because the patch pretends to
+  fix the sound, then "fixes" it by blaming the user instead: the
+  crunching is correctly attributed to your age, not the stairs —
+  the asymmetry makes the bug feel specific and true, not generic.
 - The version string "v3.2.0" sells the changelog illusion in a
   single token.
 
@@ -24,8 +23,8 @@ in /output/entry.txt; see the asserts in main().
 import os
 
 ENTRY = (
-    "v3.2.0: fixed a bug where the brain saved every embarrassing "
-    "moment since 2009 but forgot why you walked into this room."
+    "v4.1.0: fixed a bug where the knees made a crunching sound on "
+    "stairs; the sound is now correctly attributed to your age, not the stairs."
 )
 
 
