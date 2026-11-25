@@ -4,6 +4,6 @@
 
 # Real-Life Patch Notes: The Comedy Changelog
 
-A one-line patch note entry for the make.fun bounty "Real-Life Patch Notes: The Comedy Changelog". The program `main.py` writes a single 120-character changelog line — a bugfix for the human brain — to `/output/entry.txt`, with nothing else: no newline, no extra words.
+A one-line patch note entry for the make.fun bounty "Real-Life Patch Notes: The Comedy Changelog". The program `main.py` writes a single 136-character changelog line — a bugfix for creaky knees on stairs — to `/output/entry.txt`, with nothing else: no newline, no extra words.
 
 Run it with `python3 main.py` (Python 3.13).
