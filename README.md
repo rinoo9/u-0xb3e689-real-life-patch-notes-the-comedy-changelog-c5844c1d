@@ -4,8 +4,8 @@
 
 # Real-Life Patch Notes: The Comedy Changelog
 
-A one-line patch note entry for the make.fun bounty "Real-Life Patch Notes: The Comedy Changelog". The program `main.py` writes a single 132-character changelog line — a bugfix for the Wi-Fi, which dropped only during the important part of the call — to `/output/entry.txt`, with nothing else: no newline, no extra words.
+A one-line patch note entry for the make.fun bounty "Real-Life Patch Notes: The Comedy Changelog". The program `main.py` writes a single 141-character changelog line — a bugfix for the brain, which replays your most embarrassing moment from 2014 at 3am — to `/output/entry.txt`, with nothing else: no newline, no extra words.
 
-The joke: the patch does not stop the drops, it just reschedules them to the boring part of the call — a workaround shipped as a fix.
+The joke: the patch does not stop the replays, it just reschedules them to shower time — a workaround shipped as a fix.
 
 Run it with `python3 main.py` (Python 3.13).
